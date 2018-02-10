@@ -1,0 +1,39 @@
+<root>
+imię;nazwisko;data urodzenia;
+<element>
+  <imię>
+Jan
+</imię>
+  <nazwisko>
+Kowalski
+</nazwisko>
+  <data urodzenia>
+02.03.1900
+</data urodzenia>
+
+</element>
+<element>
+  <imię>
+Jan
+</imię>
+  <nazwisko>
+Nowak
+</nazwisko>
+  <data urodzenia>
+02.03.1900
+</data urodzenia>
+
+</element>
+<element>
+  <imię>
+Jan
+</imię>
+  <nazwisko>
+Kowal
+</nazwisko>
+  <data urodzenia>
+02.03.1900
+</data urodzenia>
+
+</element>
+</root>
